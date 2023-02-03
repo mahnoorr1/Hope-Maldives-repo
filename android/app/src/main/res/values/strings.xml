@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hop Maldives</string>
+    <string name="facebook_app_id">2180756595435638</string>
+    <string name="fb_login_protocol_scheme">fb2180756595435638</string>
+    <string name="facebook_client_token">cfe9f685d0f5d8373543f987a29ede3e</string>
+</resources>

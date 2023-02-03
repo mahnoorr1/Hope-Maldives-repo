@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>740223164484-6o9kht38afpltgcu8cabvrt363ki2le6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.740223164484-6o9kht38afpltgcu8cabvrt363ki2le6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>740223164484-tvg8ihd9jpb2rui9akr2onrmlj18kf63.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCv67wuNv-YSyuNtBTQ6vf-cz4TWgy7XgQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>740223164484</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dexplat.hopMaldives</string>
+	<key>PROJECT_ID</key>
+	<string>hopmaldives-6c647</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hopmaldives-6c647.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:740223164484:ios:2508054751ab5ae3921c11</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740223164484",
+    "project_id": "hopmaldives-6c647",
+    "storage_bucket": "hopmaldives-6c647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740223164484:android:d610e628413dd9b9921c11",
+        "android_client_info": {
+          "package_name": "com.dexplat.hop_maldives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740223164484-tsshcar8530e5dofpfs00nomp4029kr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNG9diNeB8Bn-8hvTShP-Mg9YMzOHsVKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740223164484-tsshcar8530e5dofpfs00nomp4029kr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
