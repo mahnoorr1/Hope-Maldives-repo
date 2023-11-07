@@ -1,23 +1,11 @@
-# hop_maldives
+# Hop_maldives
 
-### Boilerplate
-
-It's clean boilerplate bundled with basic stuff which make the development very easy.
+It's a tourism booking app, users can not only join tours but also book resorts, hotels and booking at restaurants through the application.
 
 ## Setup
 
-- `npm i -g hygen` (CLI)
-- Install these extensions on VS CODE
+- flutter version: 2.8
 
-  - [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
-    - This enables to debug flutter in VS code & make dart code readable with colors & syntax.
-  - [Dart Data Class Generator Merge](https://marketplace.visualstudio.com/items?itemName=hzgood.dart-data-class-generator)
-    - This helps us make data models via few key strokes.
-
-
-## Get started with codebase
-
-> All the decisions for setting project's architecture has been taken very carefully and
 
 ### Themeing
 - `lib/configs` this directory holds all UI related configs.
@@ -78,3 +66,13 @@ It's clean boilerplate bundled with basic stuff which make the development very 
   - `postHygen.dart` is triggered by `hygen` when new screen is generated.
   - `routes.dart` generates named routes in `lib/app_routes.dart` via looping through all the folders in `lib/screens`
   - `utils.dart` internal utils for scripts. shouldn't be consumed in project.
+ 
+
+## Gallery 
+
+- ![Screenshot (987)](https://github.com/mahnoorr1/Hope-Maldives-repo/assets/91974252/c4918734-430b-4ede-a3fa-ec443a58e478)
+- ![image](https://github.com/mahnoorr1/Hope-Maldives-repo/assets/91974252/44dfc93d-be3a-43dd-a90f-bdec1c1021c7)
+- ![image](https://github.com/mahnoorr1/Hope-Maldives-repo/assets/91974252/c46018a1-0d82-4696-b640-181614ddd8f1)
+- 
+
+
